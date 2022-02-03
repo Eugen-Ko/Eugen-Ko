@@ -37,7 +37,7 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer" margin-right="20px;"> 
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> 
+      height="40" margin-right="20px" /> 
   </a> 
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
     <img
