@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Eugen-Ko/" target="_blank">Eugen</a> 
+<h1 align="left">Hi there, I'm <a href="https://github.com/Eugen-Ko/" target="_blank">Eugen</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">𝕴 𝖆𝖒 𝖆 𝖋𝖚𝖑𝖑 𝖘𝖙𝖆𝖈𝖐 𝖉𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗.</h3>
+<h3 align="left">𝕴 𝖆𝖒 𝖆 𝖋𝖚𝖑𝖑 𝖘𝖙𝖆𝖈𝖐 𝖉𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗.</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugen-Ko)](https://github.com/anuraghazra/github-readme-stats)
 
