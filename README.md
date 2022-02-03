@@ -5,5 +5,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugen-Ko&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugen-Ko&show_icons=true&theme=aura)  
+<p></p>
+    <a href="https://github.com/Eugen-Ko">
+      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg&logocolor=white' alt='github' height='40'>
+    </a>  
+
 
 
