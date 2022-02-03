@@ -1,20 +1,13 @@
-<h1 align="left">Hi there, I'm <a href="https://github.com/Eugen-Ko/" target="_blank">Eugen</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="left">𝕴 𝖆𝖒 𝖆 𝖋𝖚𝖑𝖑 𝖘𝖙𝖆𝖈𝖐 𝖉𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗.</h3>
+### Hi there 👋, my name is Eugen
+𝐈 𝐚𝐦 𝐚 𝐣𝐮𝐧𝐢𝐨𝐫 𝐟𝐮𝐥𝐥 𝐬𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫.
+
+Skills: REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugen-Ko)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**Eugen-Ko/Eugen-Ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugen-Ko&show_icons=true)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Eugen-Ko)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/eugen-kovalchuk-050820226//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/Eugen-Ko/Eugen-Ko/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/jeff_ko)
