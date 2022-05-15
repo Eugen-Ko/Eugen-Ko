@@ -135,17 +135,4 @@
         height="40"
       />
     </a>
-    <a
-      href="https://ubuntu.com/"
-      target="_blank"
-      rel="noreferrer"
-      style="margin-right: 20px;"
-    >
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
-        alt="Ubuntu"
-        width="40"
-        height="40"
-      />
-    </a>
   </p>
