@@ -42,6 +42,6 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
-      alt="webpack" width="100" height="40" /> 
+      alt="webpack" width="40" height="40" /> 
   </a>
 </p>
