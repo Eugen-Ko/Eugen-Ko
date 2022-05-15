@@ -13,7 +13,7 @@
       href="https://reactjs.org/"
       target="_blank"
       rel="noreferrer"
-      style="margin-right: 20px;"
+      style="margin-right: 40px;"
     >
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
@@ -26,7 +26,7 @@
       href="https://redux.js.org"
       target="_blank"
       rel="noreferrer"
-      style="margin-right: 20px;"
+      style="margin-right: 40px;"
     >
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
@@ -39,7 +39,7 @@
       href="https://nodejs.org/uk/"
       target="_blank"
       rel="noreferrer"
-      style="margin-right: 20px;"
+      style="margin-right: 40px;"
     >
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
@@ -52,7 +52,7 @@
       href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
       target="_blank"
       rel="noreferrer"
-      style="margin-right: 20px;"
+      style="margin-right: 40px;"
     >
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
@@ -73,7 +73,7 @@
       href="https://www.w3.org/html/"
       target="_blank"
       rel="noreferrer"
-      style="margin-right: 20px;"
+      style="margin-right: 40px;"
     >
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"
@@ -86,7 +86,7 @@
       href="https://www.w3schools.com/css/"
       target="_blank"
       rel="noreferrer"
-      style="margin-right: 20px;"
+      style="margin-right: 40px;"
     >
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"
@@ -106,15 +106,21 @@
         alt="SASS/SCSS"
         width="40"
         height="40"
-        margin-right="20px"
+        margin-right="40px"
       />
     </a>
     <a
       href="https://github.com/"
       target="_blank"
       rel="noreferrer"
-      style="margin-right: 20px;"
-    ><i class="devicon-github-original"></i>          
+      style="margin-right: 40px;"
+    >
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+        alt="GitHub"
+        width="40"
+        height="40"
+      />
     </a>
     <a
       href="https://code.visualstudio.com/"
