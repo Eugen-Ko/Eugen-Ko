@@ -22,7 +22,6 @@
         height="40"
       />
     </a>
-
     <a
       href="https://redux.js.org"
       target="_blank"
@@ -36,7 +35,6 @@
         height="40"
       />
     </a>
-
     <a
       href="https://nodejs.org/uk/"
       target="_blank"
