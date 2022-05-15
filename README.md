@@ -114,13 +114,7 @@
       target="_blank"
       rel="noreferrer"
       style="margin-right: 20px;"
-    >
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-        alt="GitHub"
-        width="40"
-        height="40"
-      />
+    ><i class="devicon-github-original"></i>          
     </a>
     <a
       href="https://code.visualstudio.com/"
